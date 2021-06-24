@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Origami Designs</title>
+    </head>
+    <body>
+        <h1>Origami Camel</h1>
+        <p>You can create many animals out of origami, here's how you make an origami camel:</p>
+        <a href="">http://origami.me/camel/<img src="camel.png"/></a>
+        <p><i>Fun Facts About Camels</i></p>
+        <ol>
+            <li>Camels have two rows of eylashes to keep sand out of their eyes!</li>
+            <li>During sandstorms, camels can shut their nostrils!</li>
+            <li>Camels can travel up to 40 miles per hour!</li>
+        
+        </ol>
+    </body>
+
+</html>
